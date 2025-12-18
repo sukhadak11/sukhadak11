@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sukhada Khade</h1>
+<h1 align="center">Hi, I'm Sukhada Khade</h1>
 <h3 align="center">AI/ML Engineer | Data Science Enthusiast | Software Developer</h3>
 
 <p align="center">
@@ -30,11 +30,6 @@ Hands-on experience in Python, Machine Learning, Deep Learning, React.js, Fireba
 - Developed ML-based disease prediction system  
 - Performed **data preprocessing, feature engineering, and evaluation**  
 
-#### 📌 **3. Quotation Generator Web App**  
-*React.js, Firebase*  
-- Engineered a production-ready web application for tour quotations  
-- Built optimized **Firestore models** and **structured queries**
-
 #### 📌 More Projects  
 👉 Portfolio: **https://sukhadak11.github.io/Portfolio/**
 
@@ -42,7 +37,8 @@ Hands-on experience in Python, Machine Learning, Deep Learning, React.js, Fireba
 
 ### 🧩 **Skills**
 
-**Programming:** Python, JavaScript, SQL 
+**Programming:** Python, JavaScript, SQL
+
 **AI/ML:** TensorFlow, Keras, CNNs, RNNs, NLP, Scikit-learn  
 **Data Skills:** EDA, Cleaning, Feature Engineering, Visualization  
 **Web Development:** React.js, HTML, CSS, JavaScript, Firebase, Flask  
